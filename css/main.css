@@ -1,0 +1,91 @@
+
+#Container{
+  width: 960px;
+  margin: auto;
+}
+
+.Column{
+  float:left;
+}
+
+.Rectangle{
+  background-color: salmon;
+  height: 350px;
+  width: 165px;
+  text-align:center;
+  padding: 10px;
+      }
+
+.Text-1{
+  font-family:'Oswald', sans-serif;
+  font-weight: bold;
+  font-size:24px;
+  line-height:125%;
+}
+
+.Text-2{
+  font-family: 'Quattrocento', serif;
+  font-weight: bold;
+  font-size:22px;
+  line-height:125%;
+}
+
+.Square-1{
+  background-color:CornflowerBLue;
+  height:165px;
+  width:165px;
+  padding:10px;
+  text-align:center;
+}
+
+.Square-2{
+  background-color:LightBLue;
+   height:165px;
+  width:165px;
+  padding:10px;
+  text-align:center;
+}
+
+.Square-3{
+  background-color:Teal;
+   height:165px;
+  width:165px;
+  padding:10px;
+  text-align:center;
+}
+
+span.Font-1{
+  font-family: 'Quattrocento', serif;
+  font-weight: bold;
+  font-size:16px;
+}
+
+span.Font-2{
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size:14px
+}
+
+#Box-TopRightTop{
+  padding:10px;
+}
+
+#Box-TopRightBot{
+  padding:10px;
+}
+
+#Box-MidLeft{
+  padding:17px;
+}
+
+#Box-MidRight{
+  padding:14px;
+}
+
+#Box-BotLeftTop{
+    padding:42px 5px;
+}
+
+#Box-BotLeftBot{
+  padding:42px 5px;
+}
